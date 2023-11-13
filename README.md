@@ -1,4 +1,6 @@
 # vuetify-todos
+To view the final build:
+https://kirdua-vuetify-todo.netlify.app/#/
 
 ## Project setup
 ```
